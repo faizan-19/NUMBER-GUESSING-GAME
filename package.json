@@ -1,8 +1,9 @@
 {
-  "name": "class-7-assig-no.2",
+  "name": "proj-01-guess-the-number",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin":"index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
